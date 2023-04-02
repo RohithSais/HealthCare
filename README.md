@@ -68,7 +68,7 @@ Canva
 
 </p>
 <h4>
-<b>Team Members</b>
+<b><b>Team Members</b></b>
 </h4>
 <p>
 <b>Sai Rohith</b>
